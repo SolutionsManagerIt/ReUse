@@ -19,6 +19,7 @@ We will need almost everyone - from web-designers and graphics experts (to prepa
 
 If you are skilled enough and want to train your coding skills (in almost any platform) with really challenging attitude - contact us - there is a lot of work to do.
 You are graduated (or graduating) in coding/it/projects management and want to practice some modern coding style - let us know.
+You would like to create stunning infografics materials/presentations or great logo styles/design - let us know. 
 
 Your help would be also enlisted in special Titles list (just same as in the movies) - so you will get involved in the history of the project.
 
