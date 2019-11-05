@@ -1,4 +1,4 @@
-# ReUse
+# ReUse frameworks
 Since most recent programming languages open source codes are not well designed, we decided to make a Well designed common collaborative code frameworks with simple main principles :
 
     heavy focus on typical code reuse
@@ -9,8 +9,31 @@ Since most recent programming languages open source codes are not well designed,
     lightweight and highly efficient
     standard common languages base types support with extensions to custom language types
 
-Currently we have got a [.NET implementation](https://solutionsmanagerit.github.io/ReUse_Net/) with a little bit of base common code.
+Currently we have got a [.NET implementation](https://solutionsmanagerit.github.io/ReUse_Net/) with a little bit of base common code just as an example.
 Once overall framework properties are ready - it will be easy to port it to other languages (both base and specific, platform dependent code parts). 
+
+# The Use of ReUse
+
+With this scheme in mind, ReUse is already connected to standard libraries to get you the complete fast start with all standard functions in a unified really useful and minimalistic style.
+
+To get something special you will need just to add some 3d party libraries and use their code using standard ReUse practices - run any code with [specified contexts](https://portal.pizza-soft.ru/index.php/en/8-reuse/4-reuse-common).
+
+How do you benefit from using ReUse in order to get rid of routine when coding :
+
+    use standard way to manage apps
+    do not spend your time on common routine tasks - focus on your target tasks instead
+    create a common minimal coding style to increase apps source code readability
+    manage data from your app processes - logs, errors, info, performance stats
+ 
+
+It is ideal as for the beginners in code - so they are able to focus on special tasks, as far as for an experts - so they are able to use common standard reusable blocks to speed up their performance.
+
+And of course everyone will get benefits from common code re use methodology :
+
+    no more errors / typos in standard code
+    clean and efficient well documented code source
+    access to all common apps functions
+
 
 # Contribute to ReUse
 
