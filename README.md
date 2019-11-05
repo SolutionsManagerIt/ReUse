@@ -10,7 +10,8 @@ Since most recent programming languages open source codes are not well designed,
     standard common languages base types support with extensions to custom language types
 
 Currently we have got a [.NET implementation](https://solutionsmanagerit.github.io/ReUse_Net/) with a little bit of base common code just as an example.
-Once overall framework properties are ready - it will be easy to port it to other languages (both base and specific, platform dependent code parts). 
+Once overall framework properties are ready - it will be easy to port it to other languages (both base and specific, platform dependent code parts).
+The main goal is to supply common modern languages - all .NET languages, C++, C, Java, Javascript.
 
 # The Use of ReUse
 
