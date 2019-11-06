@@ -38,17 +38,17 @@ And of course everyone will get benefits from common code re use methodology :
 
 # Contribute to ReUse
 
-This task will require a lot of work, so your help would be highly appreciated.
-We will need almost everyone - from web-designers and graphics experts (to prepare sites and marketing materials) to content managers, testers, code and security experts, discussions boards administrators and managers an so on.
+This task will require a lot of work, so [your help](https://portal.pizza-soft.ru/index.php/en/contribute-to-reuse) would be highly appreciated.
+We will need almost everyone - from web-designers and graphics experts (to prepare sites and marketing materials) to content managers, social media groups administrators and promoters, testers, code and security experts, discussions boards administrators and managers an so on.
 
 If you are skilled enough and want to train your coding skills (in almost any platform) with really challenging attitude - contact us - there is a lot of work to do.
 You are graduated (or graduating) in coding/it/projects management and want to practice some modern coding style - let us know.
-You would like to create stunning infografics materials/presentations or great logo styles/design - let us know. 
+You would like to create stunning infografics materials/presentations or great logo styles/design - [let us know](https://portal.pizza-soft.ru/index.php/en/contribute-to-reuse). 
 
 Your help would be also enlisted in special Titles list (just same as in the movies) - so you will get involved in the history of the project.
 
 Also I guess we would need some financial aid to make it all floating and riding - so sales persons, project managers, security experts are welcome too.
 In the future, if everything will go just fine - we will make a special private Pro expert versions with additional expert level functions (only to true professionals) - so it would be possible to monetize it a little bit.
 
-So if you want to participate in this project - let us know.
+So if you want to participate in this project - [let us know](https://portal.pizza-soft.ru/index.php/en/contribute-to-reuse).
 If you like the idea - just spread a good word about it.
